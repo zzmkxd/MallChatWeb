@@ -164,9 +164,3 @@
     <td><a href="https://github.com/zongzibinbin/MallChat/pull/82">握手认证</a></td>
   </tr>
 </table>
-
-## 公众号
-
-微信搜索 **阿斌 Java 之路** 关注我的原创公众号，后台回复「**抹茶**」即可加入抹茶交流群，一些做过公司万人群聊，高并发的小伙伴都在里面讨论方案。公众号也会经常更新项目相关的文档，等你来撩~~
-
-![p9211Ag.png](https://s1.ax1x.com/2023/05/15/p9211Ag.png)
