@@ -29,15 +29,6 @@
     
 </div>
 
-## 项目导航
-
-1. **快速体验地址**：[抹茶聊天首页](https://mallchat.cn)
-2. **后端项目仓库**：[MallChat](https://github.com/zongzibinbin/MallChat)
-3. **项目视频记录**：[Bilibili 地址](https://space.bilibili.com/146719540) 全程分享项目进度，功能选型的思考，同时征集迭代建议。
-4. **项目学习文档**：10w+字，保姆级教学路线，环境搭建、核心功能、基建轮子、接口压测、问题记录、一个不落。可点击[抹茶项目文档](https://www.yuque.com/snab/planet/cef1mcko4fve0ur3)查看（内含 500 人交流大群）
-5. **项目交流群**：对抹茶感兴趣的，可以加入[交流群](#公众号)。你的每一个举动，都会决定项目未来的方向。无论是提意见做产品经理，还是找 bug 做个测试人员，又或者加入开发小模块成为 contributer，都欢迎你的加入。
-6. **码云仓库**：[https://gitee.com/Evansy/MallChatWeb](https://gitee.com/Evansy/MallChatWeb) （国内访问速度更快）
-
 ## 项目介绍
 
 抹茶聊天是一个 IM 项目，通过 netty 实现和前端的 websocket 连接。内含微信扫描登录，成员列表，上下线动画，消息列表，消息互动，还有很多实用的小轮子列如 aop 日志，分布式锁注解，频控注解，ip 解析归属地等，持续更新中。。。
@@ -80,11 +71,10 @@
 
 #### 后端技术
 
-见 [MallChat](https://github.com/zongzibinbin/MallChat#后端技术)
 
 ### 后端环境搭建
 
-在项目目录下的`application.yml`修改自己的启动环境`spring.profiles.active` = `test`然后找到同级文件`application-test.properties`，填写自己的环境配置。[星球成员](https://www.yuque.com/snab/planet/cne0nel2hny8eu4i)提供一套测试环境配置，可直连
+在项目目录下的`application.yml`修改自己的启动环境`spring.profiles.active` = `test`然后找到同级文件`application-test.properties`，填写自己的环境配置。
 
 ### 项目文档
 
