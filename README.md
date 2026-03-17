@@ -92,19 +92,6 @@
 
 **贡献之前请先阅读 行为准则 和 贡献指南。感谢所有为 MallChat 做过贡献的人!**
 
-#### 前端:
-
-<a href="https://github.com/Evansy/MallChatWeb/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Evansy/MallChatWeb" />
-</a>
-
-#### 后端:
-
-<a href="https://github.com/zongzibinbin/MallChat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zongzibinbin/MallChat" />
-</a>
-
-<h4>优秀贡献者:</h4>
 
 <table>
   <tr>
